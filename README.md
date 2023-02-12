@@ -49,7 +49,7 @@
   </style>
 </head>
 <body>
-  <img class="logo" src="[Insert Logo Image Path Here]" alt="Logo" width="200" height="200">
+  <img class="logo" src="[download.png]" alt="Logo" width="200" height="200">
   <h1>1st Dance Show</h1>
   <h2>Enjoy the show like you are at a Theme Park</h2>
   <div class="description">
