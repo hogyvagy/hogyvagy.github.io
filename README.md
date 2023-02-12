@@ -64,7 +64,7 @@
     <p><strong>Ticket information:</strong> 500HUF at the door</p>
   </div>
   <div class="contact">
-    <p>For further questions, please email us at: office.d.smile@gmail.com</p>
+    <p>For further questions, please email us at: d.smile.marei@gmail.com</p>
   </div>
 </body>
 </html>
