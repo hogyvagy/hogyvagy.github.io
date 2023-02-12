@@ -57,14 +57,14 @@
     <p>A színházi előadás információs weboldala: 1st Dance Show</p>
   </div>
   <div class="details">
-    <p><strong>Date:</strong> [Insert Date Here]</p>
-    <p><strong>Open time:</strong> [Insert Open Time Here]</p>
-    <p><strong>Start time:</strong> [Insert Start Time Here]</p>
-    <p><strong>Location:</strong> [Insert Location Here]</p>
-    <p><strong>Ticket information:</strong> [Insert Ticket Information Here]</p>
+    <p><strong>Date:</strong> 2023. March 5th Sunday</p>
+    <p><strong>Open time:</strong> 15:10</p>
+    <p><strong>Start time:</strong> 15:30</p>
+    <p><strong>Location:</strong> Budapest, San Marco u. 81, 1032; Óbudai Kultúrális Központ</p>
+    <p><strong>Ticket information:</strong> 500HUF at the door</p>
   </div>
   <div class="contact">
-    <p>For further questions, please email us at: [Insert Email Address Here]</p>
+    <p>For further questions, please email us at: office.d.smile@gmail.com</p>
   </div>
 </body>
 </html>
